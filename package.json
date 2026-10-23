@@ -1,16 +1,11 @@
 {
-  "name": "baileys",
-  "type": "module",
-  "version": "6.7.24",
-  "description": "A WebSockets library for interacting with WhatsApp Web",
-  "keywords": [
-    "whatsapp",
-    "automation"
-  ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys/",
-  "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
-  },
+"name": "kingtj-baileys",
+"version": "6.7.24",
+"description": "KING TJ BAILEYS - A community-maintained Baileys fork for WhatsApp Web integration.",
+"repository": {
+  "type": "git",
+  "url": "https://github.com/Tjtoymaster/kingtj-baileys.git"
+},
   "license": "MIT",
   "author": "Rajeh Taher",
   "main": "lib/index.js",
